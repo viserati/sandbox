@@ -10,3 +10,5 @@ print ('--------------------')
 
 first_name = ('Winston')
 print(first_name)
+
+# Practice the varible mixself.
