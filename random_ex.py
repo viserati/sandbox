@@ -1,3 +1,3 @@
 import random
 
-print (random.randint(1,42))
+print (random.randint(0,42))
