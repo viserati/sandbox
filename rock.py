@@ -1,4 +1,4 @@
-# rock, paper, scissors
+# rock, paper, scissors game
 
 import random
 
