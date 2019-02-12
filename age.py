@@ -1,7 +1,7 @@
 # This program says hello and asks the user's name and age.abs
 
 print ('Hello')
-print ('What is your name?') # Asks for name.
+print ('What is your name?') # Asks for your name.
 myName = input()
 print ('It is good to meet you, ' + myName)
 print ('The length of your name is:')
