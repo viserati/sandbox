@@ -1,4 +1,4 @@
-# This program says hello and asks the user's name and age.abs
+# This program says hello and asks the user's name and age.
 
 print ('Hello')
 print ('What is your name?') # Asks for your name.
