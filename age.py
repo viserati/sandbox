@@ -1,5 +1,5 @@
 # This program says hello and asks the user's name and age.
-# Prompt: 75658266
+# Prompt: 4665780
 print ('Hello')
 print ('What is your name?') # Asks for your name.
 myName = input()
